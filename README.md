@@ -23,18 +23,11 @@
 ### **🔒 Security Compliance Intern @ Cisco**  
 🔹 Tested applications for vulnerabilities and reported security issues.  
 
-### **📱 Remote Freelancer - Mobile App Developer @ Noor Al-Khair**  
-🔹 Developed **React Native applications** for iOS and Android with **Express & Azure SQL backend**.  
-
 ## 💻 Notable Projects  
 - **Crime Prediction Using ML & DL** 🔎  
   - Built a model to predict crime patterns using **Deep Learning & ML algorithms**.  
 - **Fake News Detection** 📰  
   - Developed a **ML model** to detect fake news and combat misinformation.  
-- **POS App for Restaurants** 🍽  
-  - A **React Native billing app** with **Azure-hosted SQL Server** backend & **SQLite offline storage**.  
-- **School Sync Portal** 🎓  
-  - A **React Native school management app** with ML-powered student performance analysis.  
 
 ## 🎖 Certifications  
 - **Java Full Stack Developer - Wipro TalentNxt**  
