@@ -5,7 +5,9 @@
 ## 🏆 About Me  
 - 💡 Passionate about AI, Machine Learning, Cybersecurity, and Full Stack Development.  
 - 🎓 **B.Tech in Computer Science & Engineering (AI & ML Specialization)** | Guru Nanak Institute of Technology, Hyderabad.  
-- 💼 Experienced in **AI, ML, Cybersecurity, and Mobile App Development**.  
+- 💼 Experienced in **AI, ML and Cybersecurity**.
+- 🌟 **Active Member of Google Developer Student Clubs (GDSC-GNI)**.  
+- 🚀 **Selected as Team Leader in the Google Cloud Console Program** for guiding students in cloud technologies.  
 - 🏅 **Top 10 Team at Smart India Hackathon (SIH)** | Team Leader.  
 - 🌍 Exploring the intersection of **AI, Security, and Cloud Technologies**.  
 
