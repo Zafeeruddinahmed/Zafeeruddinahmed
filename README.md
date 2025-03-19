@@ -26,6 +26,10 @@
 🔹 Tested applications for vulnerabilities and reported security issues.  
 
 ## 💻 Notable Projects  
+- **MERN E-Commerce Platform** 🛒  
+  - Developed a **full-stack e-commerce application** using **MongoDB, Express.js, React, and Node.js**.  
+  - Implemented **user authentication, product management, and secure payment integration**.  
+  - Designed a **responsive UI with an intuitive shopping experience**.  
 - **Crime Prediction Using ML & DL** 🔎  
   - Built a model to predict crime patterns using **Deep Learning & ML algorithms**.  
 - **Fake News Detection** 📰  
